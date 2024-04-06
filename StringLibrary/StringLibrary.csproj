@@ -4,6 +4,8 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <!-- Add the following line to specify the package version -->
+    <Version>1.0.1</Version> <!-- Update the version number as needed -->
   </PropertyGroup>
 
 </Project>
